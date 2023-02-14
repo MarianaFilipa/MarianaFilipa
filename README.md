@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+I'm currently taking a Master's degree in Computer Engineering at Universidade do Minho.
 
 <!--
 **MarianaFilipa/MarianaFilipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
